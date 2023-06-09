@@ -207,8 +207,8 @@
       <div class="item">
         <img src="chicago.jpg" alt="Chicago" width="1200" height="700">
         <div class="carousel-caption">
-          <h3>Werkweek Surfen</h3>
-          <p>Gemaakt door Jet Lunshof en Bo Lammertsma</p>
+          <h3>Chicago</h3>
+          <p>Thank you, Chicago - A night we won't forget.</p>
         </div>      
       </div>
     
@@ -448,4 +448,5 @@ $(document).ready(function(){
 
 </body>
 </html>
+
 
